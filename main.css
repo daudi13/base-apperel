@@ -39,14 +39,21 @@ img {
 }
 
 .main-box__down {
-    height: 100vh;
+    position: relative;
     width: 100%;
+    margin: 0 auto;
+    padding: 2rem;
 }
 
 .main-box__hero-image {
     background-image: url('./images/hero-mobile.jpg');
     background-repeat: no-repeat;
     background-position: top;
+    position: absolute;
+    top: 100px;
+    left: 0;
+    right: 0;
+    height: 100%;
 
 }
 
