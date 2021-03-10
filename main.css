@@ -66,7 +66,11 @@ img {
     text-align: center;
 }
 
-.main-box__text-title {
-    
+.main-box__text-title span {
+    font-weight: 300;
+    letter-spacing: 10px;
+    font-size: 46px;
+    text-transform: uppercase;
+    color: var(--desaturated-red);
 }
 
