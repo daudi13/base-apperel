@@ -72,11 +72,21 @@ img {
     text-align: center;
 }
 
-.main-box__text-title span {
+.main-box__text-title .light {
     font-weight: 300;
     letter-spacing: 10px;
     font-size: 46px;
     text-transform: uppercase;
     color: var(--desaturated-red);
+    line-height: 60px;
+}
+
+.main-box__text-title .bold {
+    font-weight: 700;
+    letter-spacing: 10px;
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #000;
+    line-height: 50px;
 }
 
