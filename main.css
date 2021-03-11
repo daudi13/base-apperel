@@ -43,6 +43,7 @@ img {
     width: 100%;
     margin: 0 auto;
     padding: 2rem;
+    width: 375px;
 }
 
 .main-box__hero-image {
@@ -54,6 +55,11 @@ img {
     left: 0;
     right: 0;
     height: 250px;
+    width: 100%;
+}
+
+.logo {
+    width: 120px;
 }
 
 .main-box__text {
