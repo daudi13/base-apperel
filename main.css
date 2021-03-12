@@ -72,6 +72,10 @@ img {
     text-align: center;
 }
 
+.main-box__text-title {
+    margin-bottom: 15px;
+}
+
 .main-box__text-title .light {
     font-weight: 300;
     letter-spacing: 10px;
@@ -87,7 +91,7 @@ img {
     font-size: 35px;
     text-transform: uppercase;
     color: #000;
-    line-height: 50px;
+    line-height: 40px;
 }
 
 .main-box__text-desc {
@@ -103,7 +107,7 @@ input {
     padding: 12px 20px;
     position: relative;
     outline: none;
-    border: 1px solid var(--dark-grayish-red);
+    border: 0.2px solid var(--desaturated-red);
     font-size: 10px;
     color: #000;
     border-radius: 30px;
