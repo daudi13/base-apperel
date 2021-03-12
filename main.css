@@ -95,5 +95,19 @@ img {
     font-size: 14px;
     line-height: 20px;
     text-align: center;
+    margin-bottom: 2rem;
 }
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    position: relative;
+    outline: none;
+    border: 1.5px solid var(--soft-red);
+    font-size: 10px;
+    color: #000;
+    border-radius: 30px;
+}
+
+
 
