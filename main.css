@@ -90,3 +90,10 @@ img {
     line-height: 50px;
 }
 
+.main-box__text-desc {
+    color: var(--desaturated-red);
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+}
+
